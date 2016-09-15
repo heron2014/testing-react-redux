@@ -2,9 +2,17 @@
 
 ### Tech stack:
 - Mocha
-- Chai
+- Chai http://chaijs.com/api/bdd/
 - jsdom
 - chai-jquery https://github.com/chaijs/chai-jquery
+
+### Purpose of Mocha and Chai
+
+![mocha-vs-chai](img-readme/mocha-vs-chai.png)
+
+### Testing set up helper
+
+
 
 ### How to run this repo:
 - clone this repo
