@@ -4,7 +4,7 @@
 - Mocha
 - Chai
 - jsdom
-- chai-jquery
+- chai-jquery https://github.com/chaijs/chai-jquery
 
 ### How to run this repo:
 - clone this repo
