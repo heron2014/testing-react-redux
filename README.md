@@ -1,4 +1,4 @@
-# Testing React and Redux
+### Testing example
 
 ### Tech stack:
 - Mocha
@@ -10,9 +10,9 @@
 
 ![mocha-vs-chai](img-readme/mocha-vs-chai.png)
 
-### Testing set up helper
+### Testing set up helper (explanation)
 
-
+  WIP
 
 ### How to run this repo:
 - clone this repo
