@@ -10,9 +10,8 @@ describe('App', () => {
   });
   //use 'it' to test a single attribute of a target
   it('shows the CommentBox', () => {
-
     //use 'expect' to make an 'assertion' about a target
-    expect(component.find('comment-box')).to.exist;
+    expect(component.find('.comment-box')).to.exist;
   });
 
 });
