@@ -1,9 +1,9 @@
 ### Testing example
 
 ### Tech stack:
-- Mocha
+- Mocha https://github.com/mochajs/mocha
 - Chai http://chaijs.com/api/bdd/
-- jsdom
+- jsdom https://github.com/tmpvar/jsdom
 - chai-jquery https://github.com/chaijs/chai-jquery
 
 ### Purpose of Mocha and Chai
@@ -79,8 +79,7 @@ What is the purpose of test_helper?
   ```
 - build helper for simulating events
 
-  Add simulate function to every jquery instance to be able to use it like:
-  ```$('div').simulate()```
+  Add simulate function to every jquery instance to be able to use it like: ```$('div').simulate()```
 
   ```js
   $.fn.simulate = function(eventName, value) {
